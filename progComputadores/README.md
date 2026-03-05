@@ -27,6 +27,8 @@ O desenvolvimento das atividades e exercícios desta disciplina foi adaptado de 
 * 🐝 **Plataforma de Submissão:** Vários problemas e desafios algorítmicos foram testados e validados no **Beecrowd** (antigo URI Online Judge). 
   * 🔗 Você pode acompanhar meu progresso e resoluções aqui: [Meu Perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1217522).
 
+  ![alt text](ex00-helloWorldEmC.png)
+
 Para compilar e executar os códigos pelo terminal integrado, utilizamos:
 * **Compilação:** `gcc nome_do_arquivo.c -o nome_do_arquivo` (ou similar)
 * **Execução:** `./nome_do_arquivo`
