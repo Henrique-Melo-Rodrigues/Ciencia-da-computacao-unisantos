@@ -25,12 +25,13 @@ O desenvolvimento das atividades e exercícios desta disciplina foi adaptado de 
   * **Execução:** `./nome_do_arquivo`
 * 🏫 **Na faculdade:** Durante as aulas práticas nos laboratórios, a IDE utilizada foi o **Code::Blocks**.
 * 🐝 **Plataforma de Submissão:** Vários problemas e desafios algorítmicos foram testados e validados no **Beecrowd** (antigo URI Online Judge). 
-  * 🔗 Você pode acompanhar meu progresso e resoluções aqui: [Meu Perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1217522).
+* 🔗 Você pode acompanhar meu progresso e resoluções aqui: [Meu Perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1217522).
 
-  ![alt text](ex00-helloWorldEmC.png)
+
+  ![Primeiro programa da graduação](images/ex00-helloWorldEmC.png)
 
 Para compilar e executar os códigos pelo terminal integrado, utilizamos:
-* **Compilação:** `gcc nome_do_arquivo.c -o nome_do_arquivo` (ou similar)
+* **Compilação:** `gcc nome_do_arquivo.c -o nome_do_arquivo.out` (ou similar)j
 * **Execução:** `./nome_do_arquivo`
 
 ## 📚 Conteúdo Programático
