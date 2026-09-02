@@ -5,3 +5,6 @@
 *.vscode
 .codex
 .codex/
+
+# artefatos do WSL/Windows
+*:Zone.Identifier
